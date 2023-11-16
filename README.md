@@ -5,5 +5,5 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
-npm run dev# vuejs
+# serve with reload at localhost:8080
+npm run dev
