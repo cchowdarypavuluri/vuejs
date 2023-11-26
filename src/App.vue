@@ -33,9 +33,7 @@
         <v-btn flat to="/departments/add">
           Department
         </v-btn>
-        <v-btn @click="showLoginDialog" flat>
-          Login
-        </v-btn>
+    
       </v-toolbar-items>
     </v-toolbar>
     <main>
